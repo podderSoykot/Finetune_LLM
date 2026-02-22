@@ -277,7 +277,7 @@ You are a helpful and empathetic Bengali assistant.
 
 ## Contact
 
-For questions or issues regarding this implementation, please cll me on +8801734537627 or mail: diptopodder95@gmail.com
+For questions or issues regarding this implementation, please cll me on phone: +8801734537627 or Mail: diptopodder95@gmail.com / 21mcsi01@iiitdmj.ac.in
 Web: https://protfolio-soykot.vercel.app/ 
 
 ---
